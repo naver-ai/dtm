@@ -26,5 +26,5 @@
 
 
 ### Updates
-* (2024/10/03): Code is under internal review.
-* (2024/10/03): [Preprint](https://arxiv.org/abs/2401.00254) has been updated.
+* (2024/10/11): Code is under internal review.
+* (2024/10/11): [Preprint](https://arxiv.org/abs/2401.00254) has been updated.
